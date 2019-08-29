@@ -8,7 +8,10 @@ namespace ISM4300MYFIRSTAPP
         {
             // Write line to print to screen
             Console.WriteLine("This is my first Console App");
-
+            /*
+             This is a multi-line
+             comment.
+             */
             // Write line to print to screen
             Console.WriteLine("I am learning how to publish to GitHub");
         }
